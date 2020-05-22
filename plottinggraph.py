@@ -5,3 +5,5 @@ x=[2,7,6,8,10,2]
 
 plt.plot(x,y,".")
 plt.show()
+
+print("new changes")
